@@ -389,7 +389,7 @@ GameObject:
   - component: {fileID: 832575519}
   - component: {fileID: 832575518}
   m_Layer: 0
-  m_Name: Global Volume
+  m_Name: "Global Volume(\u898B\u305F\u76EE\u306E\u6700\u7D42\u8ABF\u6574\u304C\u3053\u3061\u3089)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
